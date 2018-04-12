@@ -1,0 +1,14 @@
+*~
+/out
+/.idea
+/.gradle
+/build
+highScore.txt
+
+/nbproject
+*.class
+dbConnect.txt
+/src/main/java/dbConnect.txt
+build.xml
+manifest.mf
+*.iml

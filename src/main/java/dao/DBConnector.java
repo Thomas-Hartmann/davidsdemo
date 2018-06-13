@@ -11,7 +11,7 @@ public class DBConnector {
     private Connection conn = null;
 
     //Constants
-    private final static String IP = "localhost";
+    private final static String IP = "mysql";
     private final static String PORT = "3306";
     private final static String DATABASE = "glazier";
     private final static String USERNAME = "root";
